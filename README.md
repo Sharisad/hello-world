@@ -1,2 +1,3 @@
 # hello-world
 new dreams new repository
+Hi Gokhan here, I want to learn new things...
